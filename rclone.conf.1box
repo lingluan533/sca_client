@@ -1,0 +1,6 @@
+[box1]
+type = webdav
+url = http://192.168.216.197:800
+vendor = other
+user = root
+pass = nPx2lERva4oJS-a92qQUS3aXNyu3aFdj

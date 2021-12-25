@@ -1,0 +1,59 @@
+DefaultTemplate: rclone.conf.1box
+DefaultBox: box1
+DefaultIpAddr: 192.168.216.203
+DefaultBrain: ""
+AllBox:
+  box1:
+    Type: webdav
+    Vendor: other
+    Url: http://192.168.216.203:800
+    User: root
+    Password: cGFzc3dvcmQ=
+    VirtualDisk: 'Z:'
+  box2:
+    Type: webdav
+    Vendor: other
+    Url: http://192.168.216.198:800
+    User: root
+    Password: cGFzc3dvcmQ=
+    VirtualDisk: 'Z:'
+  box3:
+    Type: webdav
+    Vendor: other
+    Url: http://192.168.216.199:800
+    User: root
+    Password: cGFzc3dvcmQ=
+    VirtualDisk: 'Z:'
+  box4:
+    Type: webdav
+    Vendor: other
+    Url: http://192.168.216.200:800
+    User: root
+    Password: cGFzc3dvcmQ=
+    VirtualDisk: 'Z:'
+  box5:
+    Type: webdav
+    Vendor: other
+    Url: http://192.168.216.201:800
+    User: root
+    Password: cGFzc3dvcmQ=
+    VirtualDisk: 'Z:'
+  box6:
+    Type: webdav
+    Vendor: other
+    Url: http://192.168.216.202:800
+    User: root
+    Password: cGFzc3dvcmQ=
+    VirtualDisk: 'Z:'
+DefaultID:
+  BoxName: box1
+  ID: root
+  Token: ""
+DefaultInterval: 30
+DefaultLogFile: sca_client.log
+DefaultAutoBoot: true
+DefaultAutoMount: true
+VPN:
+  networkid: 6ab565387a43b3c5
+  connect: true
+  networkname: openwrt

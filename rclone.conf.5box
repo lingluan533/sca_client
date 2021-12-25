@@ -1,0 +1,35 @@
+[box1]
+type = webdav
+url = http://192.168.216.197:800
+vendor = other
+user = root
+pass = nPx2lERva4oJS-a92qQUS3aXNyu3aFdj
+
+[box2]
+type = webdav
+url = http://192.168.216.198:800
+vendor = other
+user = root
+pass = lxCWEXp0AXL6PGFhgBY5ATtBfWWrvDLC
+
+[box3]
+type = webdav
+url = http://192.168.216.199:800
+vendor = other
+user = root
+pass = G0_PRtRetHAfjVxidC9ejFy_VHAXx7ql
+
+[box4]
+type = webdav
+url = http://192.168.216.200:800
+vendor = other
+user = root
+pass = x4vgAAfoVk4UZRS4iMR9o1WQpPOjSrNF
+
+[box5]
+type = webdav
+url = http://192.168.216.201:800
+vendor = other
+user = root
+pass = RotN8id6hJS_1C5DVpM0JDzVw86Em_zF
+
